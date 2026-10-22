@@ -1,4 +1,4 @@
-Anablepsoides cearensis — Ecological Niche Modeling and Climate Projections
+Anablepsoides cearensis — Ecological Niche Modeling and Climate Projections. Author: Salu Coêlho da Silva
 This repository contains R scripts, occurrence records, spatial data, and supporting results associated with ecological niche modeling, distribution assessment, and future climate projections for Anablepsoides cearensis.
 
 1. Repository structure
